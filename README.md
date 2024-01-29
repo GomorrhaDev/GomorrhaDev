@@ -1,9 +1,10 @@
 <h1 align="center">Hi 👋, I'm GomorrhaDev</h1> <h3 align="center">A passionate Spigot Developer from Germany</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomorrhadev&label=Profile%20views&color=0e75b6&style=flat" alt="gomorrhadev" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gomorrhadev" alt="gomorrhadev" /></a> </p>
+
 🔭 I’m currently working on MTVehicles
 
-🌱 I’m currently learning PHP, Laravel, Git
+⛳ My hobby project is Wolfi available at https://github.com/GomorrhaDev/wolfi
 
-⛳ My hobby project is Wolfi
+🌱 I’m currently learning PHP, Laravel, Git
 
 👨‍💻 All of my projects are available at https://github.com/GomorrhaDev/
 
