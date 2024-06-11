@@ -10,7 +10,7 @@
 
 💬 Ask me about Spigot Plugin Development
 
-📫 How to reach me gutz@gomorrha.host
+📫 How to reach me? Write an email to gutz@gomorrha.host!
 
 ⚡ Fun fact Dupstep - Enjoyer
 
