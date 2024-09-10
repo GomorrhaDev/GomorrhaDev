@@ -1,18 +1,21 @@
-<h1 align="center">Hi 👋, I'm GomorrhaDev</h1> <h3 align="center">A passionate Spigot Developer from Germany</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomorrhadev&label=Profile%20views&color=0e75b6&style=flat" alt="gomorrhadev" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gomorrhadev" alt="gomorrhadev" /></a> </p>
+<h1 align="center">Hi 👋, I'm GomorrhaDev</h1> <h3 align="center">A passionate Java & Dart Developer from Germany</h3> <p align="left"> <img src="https://komarev.com/ghpvc/?username=gomorrhadev&label=Profile%20views&color=0e75b6&style=flat" alt="gomorrhadev" /> </p> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gomorrhadev" alt="gomorrhadev" /></a> </p>
 
 🔭 I’m currently working on MTVehicles
-
-⛳ My hobby project is Wolfi available at https://github.com/GomorrhaDev/wolfi
 
 🌱 I’m currently learning PHP, Laravel, Git
 
 👨‍💻 All of my projects are available at https://github.com/GomorrhaDev/
 
-💬 Ask me about Spigot Plugin Development
-
-📫 How to reach me? Write an email to gutz@gomorrha.host!
+📫 How to reach me? Write an email to gutz@mine-server.org!
 
 ⚡ Fun fact Dupstep - Enjoyer
+
+<h3 align="left">Visitors:</h3>
+<p>
+    <a href="https://github.com/VynzzDev">
+        <img src="https://profile-counter.glitch.me/%7BGomorrhaDev%7D/count.svg" alt="VynzzDev :: Visitor's Count" />
+    </a>
+</p>
 
 <p align="left"> </p> <h3 align="left">Languages and Tools:</h3> <p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" alt="java" width="40" height="50"/> </a> 
